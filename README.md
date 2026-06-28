@@ -2,9 +2,9 @@
 
 A curated collection of the best applications built specifically for macOS.
 
-> Generated automatically from [Discover Mac Apps](https://discovermacapps.com).
+> Curated through [Discover Mac Apps](https://discovermacapps.com).
 
-## 📖 Legend
+## 📖 Quick Info
 
 **Pricing**
 - 🆓 **Free**: Completely free to use
