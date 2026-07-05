@@ -29,6 +29,7 @@ A curated collection of the best applications built specifically for macOS.
   - [Launchers & Spotlight](#launchers-spotlight)
   - [Window Management](#window-management)
   - [Note Taking](#note-taking)
+  - [Menu Bar Apps](#menu-bar-apps)
 - [**Design & Creative**](#design-creative)
   - [Graphic Design](#graphic-design)
   - [Photo Editing](#photo-editing)
@@ -81,6 +82,10 @@ A curated collection of the best applications built specifically for macOS.
 - [**Bear**](https://bear.app/) 🔓 ⚡️ - Write beautifully. Think clearly.
 - [**Notion**](https://www.notion.com/) 🔓 🌐 - Your wiki, docs, and projects. Together.
 - [**Obsidian**](https://obsidian.md/) 🔓 🌐 - Sharpen your thinking.
+
+### Menu Bar Apps
+
+- [**Ice**](https://icemenubar.app/) 🆓 🌐 - Reclaim your Mac's menu bar
 
 ## Design & Creative
 
