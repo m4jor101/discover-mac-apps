@@ -85,6 +85,7 @@ A curated collection of the best applications built specifically for macOS.
 
 ### Menu Bar Apps
 
+- [**Bartender**](https://www.macbartender.com/) 🔄 🌐 - Take control of your menu bar
 - [**Ice**](https://icemenubar.app/) 🆓 🌐 - Reclaim your Mac's menu bar
 
 ## Design & Creative
