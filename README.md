@@ -39,6 +39,9 @@ A curated collection of the best applications built specifically for macOS.
   - [Email Clients](#email-clients)
 - [**Utilities**](#utilities)
   - [System Monitoring](#system-monitoring)
+  - [Disk & Storage](#disk-storage)
+- [**Writing & Docs**](#writing-docs)
+  - [Word Processors](#word-processors)
 - [**Internet & Network**](#internet-network)
   - [Web Browsers](#web-browsers)
 
@@ -123,10 +126,24 @@ A curated collection of the best applications built specifically for macOS.
 
 ## Utilities
 
+- [**Unfumble**](https://unfumble.app/) 🔓 🌐 - Autopilot for your keyboard
+
 ### System Monitoring
 
 - [**iStat Menus**](https://bjango.com/mac/istatmenus/) 💳 🌐 - The ultimate system monitor for Mac
 - [**Stats**](https://mac-stats.com/) 🆓 🌐 - Monitor your Mac from the menu bar
+
+### Disk & Storage
+
+- [**CleanMyMac**](https://cleanmymac.com/) 🔄 🌐 - All-in-one Mac care application designed to clean system junk, optimize performance, and eliminate malware
+- [**DaisyDisk**](https://daisydiskapp.com/) 💳 🌐 - Disk analyzer that visualizes Mac storage as an interactive sunburst map
+- [**Mole**](https://mole.fit/) 🔓 🌐 - All-in-one terminal engine and native Mac app designed to clean, uninstall, optimize, and monitor macOS
+
+## Writing & Docs
+
+### Word Processors
+
+- [**LibreOffice**](https://www.libreoffice.org/) 🆓 🌐 - The premier open-source, offline alternative to Microsoft Office
 
 ## Internet & Network
 
