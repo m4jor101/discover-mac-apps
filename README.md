@@ -29,6 +29,7 @@ A curated collection of the best applications built specifically for macOS.
   - [Launchers & Spotlight](#launchers-spotlight)
   - [Window Management](#window-management)
   - [Note Taking](#note-taking)
+  - [Clipboard Managers](#clipboard-managers)
   - [Menu Bar Apps](#menu-bar-apps)
 - [**Design & Creative**](#design-creative)
   - [Graphic Design](#graphic-design)
@@ -40,6 +41,7 @@ A curated collection of the best applications built specifically for macOS.
 - [**Utilities**](#utilities)
   - [System Monitoring](#system-monitoring)
   - [Disk & Storage](#disk-storage)
+  - [System Optimization](#system-optimization)
 - [**Writing & Docs**](#writing-docs)
   - [Word Processors](#word-processors)
 - [**Internet & Network**](#internet-network)
@@ -69,6 +71,8 @@ A curated collection of the best applications built specifically for macOS.
 
 ## Productivity
 
+- [**Letterboxx**](https://letterboxx.app/) 🔄 🌐 - A calm, dedicated Mac reading app for your email newsletters.
+
 ### Launchers & Spotlight
 
 - [**Alfred**](https://www.alfredapp.com/) 🔓 🌐 - Boost your productivity with keyboard shortcuts and automation
@@ -85,6 +89,12 @@ A curated collection of the best applications built specifically for macOS.
 - [**Bear**](https://bear.app/) 🔓 ⚡️ - Write beautifully. Think clearly.
 - [**Notion**](https://www.notion.com/) 🔓 🌐 - Your wiki, docs, and projects. Together.
 - [**Obsidian**](https://obsidian.md/) 🔓 🌐 - Sharpen your thinking.
+
+### Clipboard Managers
+
+- [**Maccy**](https://maccy.app/) 🔓 🌐 - Lightweight, native clipboard manager for macOS.
+- [**Paste**](https://pasteapp.io/) 🔄 🌐 - The visual clipboard manager for Mac, iPhone, and iPad.
+- [**PastePal**](https://apps.apple.com/us/app/clipboard-manager-pastepal/id1503446680?platform=mac) 🔓 🌐 - Universal clipboard manager for Mac, iPhone, and iPad.
 
 ### Menu Bar Apps
 
@@ -126,8 +136,6 @@ A curated collection of the best applications built specifically for macOS.
 
 ## Utilities
 
-- [**Unfumble**](https://unfumble.app/) 🔓 🌐 - Autopilot for your keyboard
-
 ### System Monitoring
 
 - [**iStat Menus**](https://bjango.com/mac/istatmenus/) 💳 🌐 - The ultimate system monitor for Mac
@@ -138,6 +146,10 @@ A curated collection of the best applications built specifically for macOS.
 - [**CleanMyMac**](https://cleanmymac.com/) 🔄 🌐 - All-in-one Mac care application designed to clean system junk, optimize performance, and eliminate malware
 - [**DaisyDisk**](https://daisydiskapp.com/) 💳 🌐 - Disk analyzer that visualizes Mac storage as an interactive sunburst map
 - [**Mole**](https://mole.fit/) 🔓 🌐 - All-in-one terminal engine and native Mac app designed to clean, uninstall, optimize, and monitor macOS
+
+### System Optimization
+
+- [**Unfumble**](https://unfumble.app/) 🔓 🌐 - Autopilot for your keyboard
 
 ## Writing & Docs
 
