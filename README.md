@@ -41,6 +41,7 @@ A curated collection of the best applications built specifically for macOS.
 - [**Utilities**](#utilities)
   - [System Monitoring](#system-monitoring)
   - [Disk & Storage](#disk-storage)
+  - [Security & Privacy](#security-privacy)
   - [System Optimization](#system-optimization)
 - [**Writing & Docs**](#writing-docs)
   - [Word Processors](#word-processors)
@@ -76,7 +77,7 @@ A curated collection of the best applications built specifically for macOS.
 ### Launchers & Spotlight
 
 - [**Alfred**](https://www.alfredapp.com/) 🔓 🌐 - Boost your productivity with keyboard shortcuts and automation
-- [**Raycast**](https://www.raycast.com/) 🔓 🌐 - Your shortcut to everything
+- [**Raycast**](https://raycast.com/?via=discovermacapps) 🔓 🌐 - Your shortcut to everything
 - [**Sol**](https://sol.ospfranco.com/) 🆓 🌐 - Open-source macOS launcher focused on simplicity, speed, and privacy
 
 ### Window Management
@@ -146,6 +147,10 @@ A curated collection of the best applications built specifically for macOS.
 - [**CleanMyMac**](https://cleanmymac.com/) 🔄 🌐 - All-in-one Mac care application designed to clean system junk, optimize performance, and eliminate malware
 - [**DaisyDisk**](https://daisydiskapp.com/) 💳 🌐 - Disk analyzer that visualizes Mac storage as an interactive sunburst map
 - [**Mole**](https://mole.fit/) 🔓 🌐 - All-in-one terminal engine and native Mac app designed to clean, uninstall, optimize, and monitor macOS
+
+### Security & Privacy
+
+- [**LicenseManagerPro**](https://klausmack-software.com/licensemanagerpro/index_en.html) 🔓 🌐 - Keep all your software licenses, product keys, and subscriptions organized in one place
 
 ### System Optimization
 
