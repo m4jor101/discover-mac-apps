@@ -29,6 +29,7 @@ A curated collection of the best applications built specifically for macOS.
   - [Launchers & Spotlight](#launchers-spotlight)
   - [Window Management](#window-management)
   - [Note Taking](#note-taking)
+  - [Calendar & Scheduling](#calendar-scheduling)
   - [Clipboard Managers](#clipboard-managers)
   - [Menu Bar Apps](#menu-bar-apps)
 - [**Design & Creative**](#design-creative)
@@ -91,10 +92,15 @@ A curated collection of the best applications built specifically for macOS.
 - [**Notion**](https://www.notion.com/) 🔓 🌐 - Your wiki, docs, and projects. Together.
 - [**Obsidian**](https://obsidian.md/) 🔓 🌐 - Sharpen your thinking.
 
+### Calendar & Scheduling
+
+- [**BusyCal**](https://www.busymac.com/busycal/) 💳 🌐 - The highly customizable calendar app for power users
+- [**Fantastical**](https://flexibits.com/fantastical) 🔓 🌐 - The intelligent calendar app built for fast, natural scheduling
+
 ### Clipboard Managers
 
 - [**Maccy**](https://maccy.app/) 🔓 🌐 - Lightweight, native clipboard manager for macOS.
-- [**Paste**](https://pasteapp.io/) 🔄 🌐 - The visual clipboard manager for Mac, iPhone, and iPad.
+- [**Paste**](https://pasteapp.io/special/?aff=dheeraj) 🔄 🌐 - The visual clipboard manager for Mac, iPhone, and iPad.
 - [**PastePal**](https://apps.apple.com/us/app/clipboard-manager-pastepal/id1503446680?platform=mac) 🔓 🌐 - Universal clipboard manager for Mac, iPhone, and iPad.
 
 ### Menu Bar Apps
