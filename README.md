@@ -41,6 +41,7 @@ A curated collection of the best applications built specifically for macOS.
   - [Email Clients](#email-clients)
 - [**Utilities**](#utilities)
   - [System Monitoring](#system-monitoring)
+  - [File Management](#file-management)
   - [Disk & Storage](#disk-storage)
   - [Security & Privacy](#security-privacy)
   - [System Optimization](#system-optimization)
@@ -148,11 +149,15 @@ A curated collection of the best applications built specifically for macOS.
 - [**iStat Menus**](https://bjango.com/mac/istatmenus/) 💳 🌐 - The ultimate system monitor for Mac
 - [**Stats**](https://mac-stats.com/) 🆓 🌐 - Monitor your Mac from the menu bar
 
+### File Management
+
+- [**Folders Pro**](https://foldersapp.dev/) 🔓 🌐 - Windows-style folder tree file manager for macOS
+
 ### Disk & Storage
 
 - [**CleanMyMac**](https://cleanmymac.com/) 🔄 🌐 - All-in-one Mac care application designed to clean system junk, optimize performance, and eliminate malware
 - [**DaisyDisk**](https://daisydiskapp.com/) 💳 🌐 - Disk analyzer that visualizes Mac storage as an interactive sunburst map
-- [**Mole**](https://mole.fit/) 🔓 🌐 - All-in-one terminal engine and native Mac app designed to clean, uninstall, optimize, and monitor macOS
+- [**Mole**](https://mole.fit/?atp=discovermacapps) 🔓 🌐 - All-in-one terminal engine and native Mac app designed to clean, uninstall, optimize, and monitor macOS
 
 ### Security & Privacy
 
