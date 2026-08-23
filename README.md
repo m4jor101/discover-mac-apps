@@ -29,6 +29,7 @@ A curated collection of the best applications built specifically for macOS.
   - [Launchers & Spotlight](#launchers-spotlight)
   - [Window Management](#window-management)
   - [Note Taking](#note-taking)
+  - [Task Management](#task-management)
   - [Calendar & Scheduling](#calendar-scheduling)
   - [Clipboard Managers](#clipboard-managers)
   - [Menu Bar Apps](#menu-bar-apps)
@@ -93,6 +94,10 @@ A curated collection of the best applications built specifically for macOS.
 - [**Notion**](https://www.notion.com/) 🔓 🌐 - Your wiki, docs, and projects. Together.
 - [**Obsidian**](https://obsidian.md/) 🔓 🌐 - Sharpen your thinking.
 
+### Task Management
+
+- [**Queue**](https://queue.community) 🔓 🌐 - The native personal CRM that keeps itself updated while keeping you in touch.
+
 ### Calendar & Scheduling
 
 - [**BusyCal**](https://www.busymac.com/busycal/) 💳 🌐 - The highly customizable calendar app for power users
@@ -131,8 +136,9 @@ A curated collection of the best applications built specifically for macOS.
 ### Screen Recording
 
 - [**Cap**](https://cap.so/) 🔓 🌐 - Beautiful screen recordings, owned by you
+- [**CleanShot X**](https://go.cleanshot.com/discovermacapps) 💳 🌐 - The ultimate screen capturing and recording app for macOS.
 - [**OBS Studio**](https://obsproject.com/) 🆓 🌐 - Free and open source software for video recording and live streaming
-- [**Screen Charm**](https://screencharm.com/) 💳 ⚡️ - Cinematic screen recordings by default
+- [**Screen Charm**](https://screencharm.com/?via=discovermacapps) 💳 ⚡️ - Cinematic screen recordings by default
 - [**Screen Studio**](https://www.screen.studio/) 🔄 🌐 - Beautiful screen recordings in minutes
 
 ## Communication
@@ -143,6 +149,9 @@ A curated collection of the best applications built specifically for macOS.
 - [**Spark Mail**](https://sparkmailapp.com/) 🔓 🌐 - The AI-powered email client designed to help you focus and reach Inbox Zero
 
 ## Utilities
+
+- [**Flameshot**](https://flameshot.org/) 🆓 🌐 - Powerful yet simple to use screenshot software.
+- [**Shottr**](https://shottr.cc/) 💳 🌐 - A small, fast, human-sized screenshot app for Mac.
 
 ### System Monitoring
 
