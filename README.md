@@ -25,6 +25,7 @@ A curated collection of the best applications built specifically for macOS.
   - [Code Editors & IDEs](#code-editors-ides)
   - [Terminal & Shell](#terminal-shell)
   - [API Development](#api-development)
+  - [Database Tools](#database-tools)
 - [**Productivity**](#productivity)
   - [Launchers & Spotlight](#launchers-spotlight)
   - [Window Management](#window-management)
@@ -73,6 +74,11 @@ A curated collection of the best applications built specifically for macOS.
 - [**Insomnia**](https://insomnia.rest/) 🔓 🌐 - Open-source API client for REST, GraphQL, gRPC, WebSockets, SSE and SOAP
 - [**Postman**](https://www.postman.com/downloads/) 🔓 🌐 - Unified API platform for building, testing, and managing APIs
 
+### Database Tools
+
+- [**Sequel Ace**](https://sequel-ace.com/) 🆓 🌐 - The open-source "sequel" to Sequel Pro for MySQL and MariaDB
+- [**TablePlus**](https://tableplus.com/) 🔓 🌐 - A modern, native, and friendly GUI tool for relational databases
+
 ## Productivity
 
 - [**Letterboxx**](https://letterboxx.app/) 🔄 🌐 - A calm, dedicated Mac reading app for your email newsletters.
@@ -113,6 +119,7 @@ A curated collection of the best applications built specifically for macOS.
 
 - [**Bartender**](https://www.macbartender.com/) 🔄 🌐 - Take control of your menu bar
 - [**Ice**](https://icemenubar.app/) 🆓 🌐 - Reclaim your Mac's menu bar
+- [**Thaw**](https://github.com/thaw-app/Thaw) 🆓 🌐 - A reliable, actively maintained fork of Ice
 
 ## Design & Creative
 
