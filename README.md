@@ -1,4 +1,4 @@
-# Discover Mac Apps
+# Discover Mac Apps 
 
 A curated collection of the best mac apps.
 
