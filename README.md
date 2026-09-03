@@ -1,6 +1,6 @@
 # Discover Mac Apps
 
-A curated collection of the best applications built specifically for macOS.
+A curated collection of the best mac apps.
 
 > Curated through [Discover Mac Apps](https://discovermacapps.com).
 
