@@ -1,6 +1,6 @@
-# Discover Mac Apps 
+# Discover Mac Apps
 
-A curated collection of the best mac apps.
+A curated collection of the best applications built specifically for macOS.
 
 > Curated through [Discover Mac Apps](https://discovermacapps.com).
 
@@ -76,6 +76,8 @@ A curated collection of the best mac apps.
 
 ### Database Tools
 
+- [**Beekeeper Studio**](https://beekeeperstudio.io/) 🔓 🌐 - A modern, approachable, and cross-platform SQL editor
+- [**DBeaver**](https://dbeaver.io/) 🔓 🌐 - The universal, cross-platform powerhouse for any database
 - [**Sequel Ace**](https://sequel-ace.com/) 🆓 🌐 - The open-source "sequel" to Sequel Pro for MySQL and MariaDB
 - [**TablePlus**](https://tableplus.com/) 🔓 🌐 - A modern, native, and friendly GUI tool for relational databases
 
@@ -173,7 +175,7 @@ A curated collection of the best mac apps.
 
 - [**CleanMyMac**](https://cleanmymac.com/) 🔄 🌐 - All-in-one Mac care application designed to clean system junk, optimize performance, and eliminate malware
 - [**DaisyDisk**](https://daisydiskapp.com/) 💳 🌐 - Disk analyzer that visualizes Mac storage as an interactive sunburst map
-- [**Mole**](https://mole.fit/?atp=discovermacapps) 🔓 🌐 - All-in-one terminal engine and native Mac app designed to clean, uninstall, optimize, and monitor macOS
+- [**Mole**](https://mole.fit/?atp=discovermacapps) 🔓 🌐 - Native macOS utility for cleaning, uninstalling, optimizing, and monitoring your Mac
 
 ### Security & Privacy
 
