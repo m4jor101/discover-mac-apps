@@ -169,6 +169,7 @@ A curated collection of the best applications built specifically for macOS.
 
 ### File Management
 
+- [**Cosmil**](https://cosmil.app/) 💳 🌐 - A faster, more beautiful Finder alternative built for macOS
 - [**Folders Pro**](https://foldersapp.dev/) 🔓 🌐 - Windows-style folder tree file manager for macOS
 
 ### Disk & Storage
