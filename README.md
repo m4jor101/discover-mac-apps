@@ -26,6 +26,7 @@ A curated collection of the best applications built specifically for macOS.
   - [Terminal & Shell](#terminal-shell)
   - [API Development](#api-development)
   - [Database Tools](#database-tools)
+  - [DevOps & Cloud](#devops-cloud)
 - [**Productivity**](#productivity)
   - [Launchers & Spotlight](#launchers-spotlight)
   - [Window Management](#window-management)
@@ -80,6 +81,10 @@ A curated collection of the best applications built specifically for macOS.
 - [**DBeaver**](https://dbeaver.io/) 🔓 🌐 - The universal, cross-platform powerhouse for any database
 - [**Sequel Ace**](https://sequel-ace.com/) 🆓 🌐 - The open-source "sequel" to Sequel Pro for MySQL and MariaDB
 - [**TablePlus**](https://tableplus.com/) 🔓 🌐 - A modern, native, and friendly GUI tool for relational databases
+
+### DevOps & Cloud
+
+- [**OrbStack**](https://orbstack.dev/) 🔓 🌐 - Fast, light, and simple Docker containers & Linux machines for macOS
 
 ## Productivity
 
