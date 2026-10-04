@@ -84,6 +84,7 @@ A curated collection of the best applications built specifically for macOS.
 
 ### DevOps & Cloud
 
+- [**Colima**](https://colima.run/) 🆓 🌐 - Container runtimes on macOS with minimal setup and zero bloat
 - [**OrbStack**](https://orbstack.dev/) 🔓 🌐 - Fast, light, and simple Docker containers & Linux machines for macOS
 
 ## Productivity
